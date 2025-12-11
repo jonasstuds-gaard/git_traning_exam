@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 credentials.r
-test_push.R
+test_push_1.R
 
 # these are the file type that are not version controlled. for sensitive information
 # if the file one select for no version controll already have been tracked, there will be a conflict as it already has been used.
