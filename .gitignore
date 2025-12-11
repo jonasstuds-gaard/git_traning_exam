@@ -5,6 +5,7 @@
 credentials.r
 test_push_1.R
 test_push_2.R
+not_for_git.R
 # these are the file type that are not version controlled. for sensitive information
 # if the file one select for no version controll already have been tracked, there will be a conflict as it already has been used.
 # one can use the git rm --cached [name_of_file_added_to_.gitignore] to remove the history. 
