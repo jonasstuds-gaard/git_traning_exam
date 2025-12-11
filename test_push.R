@@ -1,5 +1,5 @@
 library(dplyr)
-library(ggplot)
+library(ggplot2)
 install.packages("git")
 gdfd # this will trigger a conflict for sure 
 
